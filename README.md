@@ -20,7 +20,7 @@ Annual Sales Dashboard (Excel): Created interactive reports using Pivot Tables &
 📫 How to reach me:
 
 LinkedIn: www.linkedin.com/in/
-preeti-kari-04383b348
+preeti-kari
 Email: preetibw.98@gmail.com
 
 ⚡ Fun Fact: I love finding patterns in data just like solving puzzles! 🧩
